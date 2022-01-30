@@ -1,7 +1,7 @@
 #!/bin/sh
-  #
-  # Configuring host communication.
-  #
+#
+# Configuring host communication.
+#
   
   case "$1" in
     start)
